@@ -120,11 +120,15 @@ public class Program_Raport_Sekolah {
             System.out.println("Siswa Ini Lulus Dengan Nilai C");
             System.out.println("Run Test Completed Build 33090");
          }
-         else if (nilai_kelulusan == 2 || nilai_siswa < 75 && sikap == 2){
+         else if (nilai_kelulusan == 3 || nilai_siswa < 75 && sikap == 2){
             System.out.println("Nama Siswa\t\t:"+kelulusan);
             System.out.println("Nilai Sikap Siswa : Baik");
-            System.out.println("Nilai Siswa\t\t:");
+            System.out.println("Nilai Siswa\t\t:"+ nilai_siswa);
+            System.out.println("Siswa Ini Telah Memenuhi Syarat Kelulusan");
+            System.out.println("Siswa ini Lulus Dengan Nilai D");
+            System.out.println("Run Test Completed Build 33090");
          }
+      
       }
 
    }
