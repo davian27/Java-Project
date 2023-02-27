@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch lat",
+      "request": "launch",
+      "mainClass": "Latihan.lat",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Launch Tugas_27_Februari_2023",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_27_Februari_2023",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Launch gatau",
+      "request": "launch",
+      "mainClass": "Latihan.gatau",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
       "name": "Launch Materi_22_Februari_2023",
       "request": "launch",
       "mainClass": "RPL_SEM2_Project.Materi_22_Februari_2023",
