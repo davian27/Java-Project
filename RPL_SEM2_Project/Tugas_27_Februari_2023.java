@@ -9,5 +9,5 @@ public class Tugas_27_Februari_2023 {
   
   public static void main(String[]args){
     luasPersegiPanjang(87.5, 54.2);
-  }
+  } 
 }
