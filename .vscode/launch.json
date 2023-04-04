@@ -6,6 +6,307 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Tugas_15",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_15",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_14",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_14",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_13",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_13",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_12",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_12",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_11",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_11",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_40",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_40",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_39",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_39",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_38",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_38",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_37",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_37",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_36",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_36",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_35",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_35",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_34",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_34",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_33",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_33",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_32",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_32",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_31",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_31",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_30",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_30",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_29",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_29",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_28",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_28",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_27",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_27",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_26",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_26",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_25",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_25",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_24",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_24",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_23",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_23",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_22",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_22",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_21",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_21",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_20",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_20",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_19",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_19",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_18",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_18",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_17",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_17",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_16",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_16",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_8",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_8",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_10",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_10",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_9",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_9",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_7",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_7",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_7",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_7",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_6",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_6",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_5",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_5",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_4",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_4",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_3",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_3",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_2",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_2",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_1",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_29_Maret_2023.Tugas_1",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Materi_27_Maret_2023",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Materi_27_Maret_2023",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
+      "name": "Tugas_daring_15_maret_2023",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_daring_15_maret_2023",
+      "projectName": "Java Project_e3d2ab23"
+    },
+    {
+      "type": "java",
       "name": "Tugas_6_Maret_2023",
       "request": "launch",
       "mainClass": "RPL_SEM2_Project.Tugas_6_Maret_2023",
