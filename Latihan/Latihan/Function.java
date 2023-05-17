@@ -3,6 +3,7 @@ package Latihan;
 public class Function {
 
   static void  rapor (int angka){
+    angka = 10;
     
 
   }

@@ -5,8 +5,9 @@ public class lat {
     System.out.println("Halo Dunia "+nama);
   }
   public static void main(String[]args){
-    angka("Subari");
-
+    for(int i=0; i<10; i++){
+angka(null);
   }
   
+}
 }
