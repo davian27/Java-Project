@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Tugas_6",
+      "request": "launch",
+      "mainClass": "RPL_SEM2_Project.Tugas_18_Januari_2023.Tugas_6",
+      "projectName": "Java-Project-Development_4d894844"
+    },
+    {
+      "type": "java",
       "name": "test1",
       "request": "launch",
       "mainClass": "test1",
